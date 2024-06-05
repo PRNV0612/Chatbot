@@ -58,6 +58,5 @@ Here's a brief overview of the main components of the script:
 - send_response: Updates the chat history with the bot's response.
 - Tkinter GUI Setup: Creates the main window, chat frame, chat box, scrollbar, input box, and send button.
 
-## License
 
 
