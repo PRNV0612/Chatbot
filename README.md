@@ -36,7 +36,9 @@ cd Chatbot.git
 
 ## Configuration
 ### Replace with your actual OpenAI API key
+```plaintext
 client = OpenAI(api_key='your-openai-api-key')
+```
 
 ## Running the Application
 #### After configuring your API key, you can run the application:
